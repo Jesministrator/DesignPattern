@@ -1,4 +1,4 @@
-package com.wxueyuan.DesignPettern.proxy;
+package com.wxueyuan.DesignPettern.StaticProxy;
 
 /**
  * Author: Jesmin
