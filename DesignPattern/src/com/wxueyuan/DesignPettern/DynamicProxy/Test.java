@@ -1,7 +1,5 @@
 package com.wxueyuan.DesignPettern.DynamicProxy;
 
-import com.wxueyuan.DesignPettern.StaticProxy.Operation;
-import com.wxueyuan.DesignPettern.StaticProxy.Student;
 import com.wxueyuan.DesignPettern.StaticProxy.Teacher;
 import com.wxueyuan.DesignPettern.StaticProxy.Ticket;
 
